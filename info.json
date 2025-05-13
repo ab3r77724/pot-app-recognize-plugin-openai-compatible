@@ -7,7 +7,7 @@
   "needs": [
     {
       "key": "model",
-      "display": "模型",
+      "display": "自定义模型",
       "type": "input"
     },
     {
